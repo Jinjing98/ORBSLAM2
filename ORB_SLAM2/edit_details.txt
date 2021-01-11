@@ -1,0 +1,3 @@
+edit the 2 param in framedrawer.h from protected into private.
+in system.h states a func called get_framedrawer
+in system.cpp def such func 
